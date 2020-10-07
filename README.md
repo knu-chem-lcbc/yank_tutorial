@@ -1,6 +1,6 @@
 # yank_tutorial
 ## 0. Overview 
-[Yank][http://getyank.org/latest/] 는 [openmm MD 패키지][http://openmm.org/] 를 이용해서 **absolute binding free energy** 계산을 쉽게 수행할 수 있도록 해주는 패키지이다. 
+[Yank](http://getyank.org/latest/)는 [openmm MD 패키지](http://openmm.org/)를 이용해서 **absolute binding free energy** 계산을 쉽게 수행할 수 있도록 해주는 패키지이다. 
 ### 0.1. 장점
 
 
